@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.agsr.footit.app-merged_res-77:/xml_backup_rules.xml.flat",
+        "source": "com.agsr.footit.app-main-79:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.agsr.footit.app-merged_res-77:/drawable_ic_filter_list.xml.flat",
+        "source": "com.agsr.footit.app-main-79:/drawable/ic_filter_list.xml"
+    },
+    {
+        "merged": "com.agsr.footit.app-merged_res-77:/drawable_ic_send.xml.flat",
+        "source": "com.agsr.footit.app-main-79:/drawable/ic_send.xml"
+    },
+    {
+        "merged": "com.agsr.footit.app-merged_res-77:/drawable_ic_bottom_home.xml.flat",
+        "source": "com.agsr.footit.app-main-79:/drawable/ic_bottom_home.xml"
+    },
+    {
+        "merged": "com.agsr.footit.app-merged_res-77:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.agsr.footit.app-main-79:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.agsr.footit.app-merged_res-77:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.agsr.footit.app-main-79:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.agsr.footit.app-merged_res-77:/drawable_ic_set_active.xml.flat",
+        "source": "com.agsr.footit.app-main-79:/drawable/ic_set_active.xml"
+    },
+    {
+        "merged": "com.agsr.footit.app-merged_res-77:/drawable_ic_filter_alt.xml.flat",
+        "source": "com.agsr.footit.app-main-79:/drawable/ic_filter_alt.xml"
+    },
+    {
+        "merged": "com.agsr.footit.app-merged_res-77:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.agsr.footit.app-main-79:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.agsr.footit.app-merged_res-77:/drawable_ic_bottom_report_focused.xml.flat",
+        "source": "com.agsr.footit.app-main-79:/drawable/ic_bottom_report_focused.xml"
+    },
+    {
+        "merged": "com.agsr.footit.app-merged_res-77:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.agsr.footit.app-main-79:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.agsr.footit.app-merged_res-77:/drawable_ic_bottom_home_focused.xml.flat",
+        "source": "com.agsr.footit.app-main-79:/drawable/ic_bottom_home_focused.xml"
+    },
+    {
+        "merged": "com.agsr.footit.app-merged_res-77:/drawable_badge_1361.xml.flat",
+        "source": "com.agsr.footit.app-main-79:/drawable/badge_1361.xml"
+    },
+    {
+        "merged": "com.agsr.footit.app-merged_res-77:/drawable_ic_bottom_profile_focused.xml.flat",
+        "source": "com.agsr.footit.app-main-79:/drawable/ic_bottom_profile_focused.xml"
+    },
+    {
+        "merged": "com.agsr.footit.app-merged_res-77:/drawable_ic_calendar.xml.flat",
+        "source": "com.agsr.footit.app-main-79:/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "com.agsr.footit.app-merged_res-77:/layout_activity_main.xml.flat",
+        "source": "com.agsr.footit.app-main-79:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.agsr.footit.app-merged_res-77:/drawable_ic_bottom_profile.xml.flat",
+        "source": "com.agsr.footit.app-main-79:/drawable/ic_bottom_profile.xml"
+    },
+    {
+        "merged": "com.agsr.footit.app-merged_res-77:/drawable_ic_accesibility.xml.flat",
+        "source": "com.agsr.footit.app-main-79:/drawable/ic_accesibility.xml"
+    },
+    {
+        "merged": "com.agsr.footit.app-merged_res-77:/drawable_ic_delete_outlined.xml.flat",
+        "source": "com.agsr.footit.app-main-79:/drawable/ic_delete_outlined.xml"
+    },
+    {
+        "merged": "com.agsr.footit.app-merged_res-77:/drawable_ic_bottom_report.xml.flat",
+        "source": "com.agsr.footit.app-main-79:/drawable/ic_bottom_report.xml"
+    },
+    {
+        "merged": "com.agsr.footit.app-merged_res-77:/xml_data_extraction_rules.xml.flat",
+        "source": "com.agsr.footit.app-main-79:/xml/data_extraction_rules.xml"
+    }
+]
